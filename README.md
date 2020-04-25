@@ -1,3 +1,3 @@
 # Python-Notepad
 
-This is a simple yet fully functional Notepad app containing basic features and is displayed in a compact manner - making it easy to make a few quick notes.
+This is a simple yet fully functional notepad app containing basic features and is displayed in a compact GUI. This makes it easy for the user to create, open & save notes.
