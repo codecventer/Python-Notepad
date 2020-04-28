@@ -6,3 +6,4 @@ This is a simple yet fully functional notepad app containing basic features and 
 
 - Working with Tkinter.
 - Save & open notes with Python.
+- General Python rules and code.
